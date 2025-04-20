@@ -304,15 +304,7 @@ The `notebooks` directory provides interactive resources for:
    pytest dags/unit_test/test_runner_dag.py
    ```
 
----
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## Contact & Acknowledgements
 
 For questions or further information, please reach out to:
 
