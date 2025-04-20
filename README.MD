@@ -305,8 +305,3 @@ The `notebooks` directory provides interactive resources for:
    ```
 
 
-
-For questions or further information, please reach out to:
-
-- **Maintainer:** [Amit Mohite]
-- **Email:** [mohite.amit@gmail.com]
